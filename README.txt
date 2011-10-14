@@ -5,11 +5,11 @@ To add this repository to your Maven project, add the following lines to your po
    <repositories>
       <repository>
          <id>vorburger-releases</id>
-         <url>https://raw.github.com/vorburger/repository/gh-pages/maven/releases</url>
+         <url>http://vorburger.github.com/m2p2-repository/maven/releases</url>
       </repository>
       <repository>
          <id>vorburger-snapshots</id>
-         <url>https://raw.github.com/vorburger/repository/gh-pages/maven/snapshots</url>
+         <url>http://vorburger.github.com/m2p2-repository/maven/snapshots</url>
       </repository>
    </repositories>
 
