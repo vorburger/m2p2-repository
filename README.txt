@@ -1,0 +1,20 @@
+This is Maven repository for my projects.
+
+To add this repository to your Maven project, add the following lines to your pom.xml or settings.xml file:
+
+   <repositories>
+      <repository>
+         <id>vorburger-releases</id>
+         <url>https://raw.github.com/vorburger/repository/gh-pages/maven-m2/releases</url>
+      </repository>
+      <repository>
+         <id>vorburger-snapshots</id>
+         <url>https://raw.github.com/vorburger/repository/gh-pages/maven-m2/snapshots</url>
+      </repository>
+   </repositories>
+
+To create your own maven repo read posts such as:
+* http://chkal.blogspot.com/2010/09/maven-repositories-on-github.html
+* http://ananthakumaran.in/2010/04/03/github-mavenized.html
+* http://www.jroller.com/mrdon/entry/maven_enabled_project_hosting_with
+* http://cemerick.com/2010/08/24/hosting-maven-repos-on-github/
