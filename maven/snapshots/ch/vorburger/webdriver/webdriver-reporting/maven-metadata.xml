@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>ch.vorburger.webdriver</groupId>
+  <artifactId>webdriver-reporting</artifactId>
+  <versioning>
+    <versions>
+      <version>1.1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20130813105035</lastUpdated>
+  </versioning>
+</metadata>
