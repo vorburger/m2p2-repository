@@ -14,6 +14,7 @@ To add this repository to your Maven project, add the following lines to your po
    </repositories>
 
 To create your own maven repo read posts such as:
+* http://blog2.vorburger.ch/2013/08/deploying-github-hosted-maven-incl.html
 * http://chkal.blogspot.com/2010/09/maven-repositories-on-github.html
 * http://ananthakumaran.in/2010/04/03/github-mavenized.html
 * http://www.jroller.com/mrdon/entry/maven_enabled_project_hosting_with
